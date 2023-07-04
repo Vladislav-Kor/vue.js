@@ -9,3 +9,6 @@
   
 # 3 Уведомление на сайте
   https://github.com/Vladislav-Kor/notifications
+  
+# 4 Эмулятор действий пользователей на сайте (тест frontend части сайта)
+  https://github.com/Vladislav-Kor/bot-test-puppeteer
